@@ -4,3 +4,9 @@ interface WeatherData {
   wind: number;
   rain: number;
 }
+
+interface temperatures {
+  dayOne: number;
+  dayTwo: number;
+  dayThree: number;
+}
